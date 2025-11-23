@@ -73,8 +73,7 @@ The dataset used for this project contain real-time swiggy order from 2025. This
 - 💡 **Insights Gained:** Saturday records the highest sales, while early weekdays like Monday and Tuesday show comparatively lower performance, indicating stronger weekend demand.
 
 #### ⊞ Quarterly Sales, Rating & Orders Summary 
-
-<img width="307" height="246" alt="quater sales" src="https://github.com/user-attachments/assets/230eed02-0179-4e0e-933a-0d190dfd1797" />
+<img width="303" height="245" alt="total_sales by each quarter" src="https://github.com/user-attachments/assets/2f37a6b1-b95f-42fe-b3ba-fcff4c62f475" />
 
 - 🛠️ **Excel Features:** Utilized conditional formatting and structured table formatting to enhance readability and data interpretation.
 - 🎨 **Design Choice:** Applied color-based data highlights to emphasize performance differences across quarters for sales, orders, and ratings.
